@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arjun Sanap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Final year project](https://github.com/arjunsanap/Jal-Marg)
+-  I’m currently working on [Final year project](https://github.com/arjunsanap/Jal-Marg)
 
-- 🌱 I’m currently learning **DSA**
+-  I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arjunsanap](https://github.com/arjunsanap)
+-  All of my projects are available at [https://github.com/arjunsanap](https://github.com/arjunsanap)
 
-- 📫 How to reach me **arjun.30102003@gmail.com**
+-  How to reach me **arjun.30102003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
